@@ -10,13 +10,17 @@ html {
   }
   
   h1 {
-    color: white;
-    font: 1.3rem Inconsolata, monospace;
+    color: #39ff14;
+    font-family:monospace;
+    font-size: 20px;
+
   }
   
   p {
-    color: white;
-    font: 1.3rem Inconsolata, monospace;
+    color: #39ff14;
+    font-family:monospace;
+    font-size: 20px;
+
   }
   
   .rain {

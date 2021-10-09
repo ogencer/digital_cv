@@ -26,7 +26,7 @@ $(document).ready(function () {
 
     var i = 0;
     var id = 'demo';
-    var txt = "Hiii, I'm Özgür Gençer!";
+    var txt = "Hiii, I'm Ozgur Gencer!";
     var count = 0;
 
     function writeMyStuff() {
