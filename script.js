@@ -26,8 +26,8 @@ $(document).ready(function () {
 
     var i = 0;
     var id = 'demo';
-    var txt = 'Hiii!!';
-    var count = 0
+    var txt = "Hiii, I'm Özgür Gençer";
+    var count = 0;
 
     function writeMyStuff() {
         if (document.getElementById(id).innerHTML == txt && count == 0) {
